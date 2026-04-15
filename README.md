@@ -18,7 +18,7 @@ No external dependencies are required. Just ensure you have Python 3.x installed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/task-tracker.git
+   git clone https://github.com/MoPlusPlus/task-tracker.git
    cd task-tracker
    ```
 
