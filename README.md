@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-[Project URL: https://github.com/MoPlusPlus/task-tracker](https://github.com/MoPlusPlus/task-tracker)
+[Project Challenge: roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 A lightweight, terminal-based task management application built with native Python. This tool allows users to manage their tasks efficiently using a simple command-line interface.
 
